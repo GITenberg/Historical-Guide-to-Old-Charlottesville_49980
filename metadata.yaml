@@ -1,10 +1,16 @@
 _repo: Historical-Guide-to-Old-Charlottesville_49980
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49980-h/images/cover.jpg
 creator:
   author:
     agent_name: Rawlings, Mary
     gutenberg_agent_id: '45641'
     url: http://www.gutenberg.org/2009/agents/45641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49980#Historical-Guide-to-Old-Charlottesville
 gutenberg_issued: '2015-09-15'
 gutenberg_type: Text
 identifiers:
